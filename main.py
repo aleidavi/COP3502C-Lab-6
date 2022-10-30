@@ -2,6 +2,6 @@
 
 a = 5
 b = 6
-y = a + b
+y = a - b
 
 print(y)
