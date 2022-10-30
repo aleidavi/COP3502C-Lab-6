@@ -1,7 +1,7 @@
 #Add comment
 
-x = 5
-
-y = x-1
+a = 5
+b = 6
+y = a + b
 
 print(y)
